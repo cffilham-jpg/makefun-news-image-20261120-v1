@@ -1,8 +1,8 @@
 # The World in One Day — Friday 20 November 2026
 
-[![make.fun](https://make.fun/api/competitions/news-image-20261120/badge)](https://make.fun/c/news-image-20261120)
-[![Rank](https://make.fun/api/competitions/news-image-20261120/badge/rank)](https://make.fun/c/news-image-20261120)
-[![Reward](https://make.fun/api/competitions/news-image-20261120/badge/reward)](https://make.fun/c/news-image-20261120)
+[![make.fun](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/c/news-image-20261120)
+[![Rank](https://make.fun/badge/news-image-20261120/cffilham-jpg/makefun-news-image-20261120-v1/rank.svg)](https://make.fun/c/news-image-20261120)
+[![Reward](https://make.fun/badge/news-image-20261120/cffilham-jpg/makefun-news-image-20261120-v1/reward.svg)](https://make.fun/c/news-image-20261120)
 
 A dense broadsheet-style front page summing up the world's news of
 Friday 20 November 2026 in a single 1024x1024 image.
